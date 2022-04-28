@@ -1,3 +1,4 @@
+#Downloaded
 com
 cn
 qq.com
@@ -14,4 +15,4 @@ gcloudsdk.com
 midasbuy.com
 ysjyfkqkzhu5qf7qhh2cgvuekrgixxjq.yundunwaf1.com
 dl.listdl.com
-sg.tdatamaster.com
+sg.tdatamaster.co
